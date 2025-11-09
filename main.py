@@ -5,7 +5,6 @@ import random
 import os
 import math
 
-import config
 
 pygame.init()
 
